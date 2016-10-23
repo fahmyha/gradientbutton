@@ -1,6 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Squada+One);
 body {
   background-color: #f0f0f0;
+  font-family: Roboto;
 }
 body:after {
   content: '';

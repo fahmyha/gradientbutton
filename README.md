@@ -1,2 +1,2 @@
 # gradientbutton
-<a href="fahmyha.github.io">DEMO</a>
+<a href="https://fahmyha.github.io/gradientbutton/">DEMO</a>
